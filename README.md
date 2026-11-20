@@ -78,8 +78,14 @@ dotnet run
 
 ---
 
+---
+
+---
+
 ## 👨‍💻 Контакты и портфолио
 
-* 🌐 **Сайт-портфолио:** https://github.io
-* 💻 **GitHub:** https://github.com
-* ✉️ **Email:** igor_romanyuk_08@inbox.ru
+* 🌐 **Сайт-портфолио:** [layz-rus.github.io](https://layz-rus.github.io)
+* 💻 **GitHub:** [github.com/layZ-rus](https://github.com/layZ-rus)
+* ✉️ **Email:** [igor_romanyuk_08@inbox.ru](mailto:igor_romanyuk_08@inbox.ru)
+
+
