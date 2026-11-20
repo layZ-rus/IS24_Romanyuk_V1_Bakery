@@ -1,0 +1,19 @@
+# Visual Studio / C#
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Android Studio / Kotlin
+.gradle/
+build/
+.idea/
+local.properties
+*.iml
+captures/
+
+# Секреты и временные файлы
+.env
+appsettings.Development.json
+~$*.docx
