@@ -82,7 +82,7 @@ dotnet run
 
 * 🌐 **Сайт-портфолио:** [layz-rus.github.io](https://layz-rus.github.io)
 * 💻 **GitHub:** [github.com/layZ-rus](https://github.com/layZ-rus)
-* ✈️ **Telegram:** [@layz102](https://t.me)
+* ✈️ **Telegram:** [@layz102](https://t.me/layz102)
 
 
 
